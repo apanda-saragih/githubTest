@@ -1,0 +1,33 @@
+misal kan sekarang aku lagi di feature/bannercons ngerjain buat cons, trus tiba-tiba ada commit baru di development, nah aku perlu pull development dulu gaa?(biar dapet development yang terbaru gitu maksudnya)
+
+
+(development) git pull origin development
+git checkout -b feature/bannercons development
+kerjain.......
+
+Response :
+
+1606939987000	(			2020-12-03	20:13:07 GMT+0	)
+						( DB	 	2020-12-03	03:13:07 GMT+7	)
+						
+						
+						
+Mundur 7 Jam (25200000 ms)
+
+1606914787000	(			2020-12-02	13:13:07 GMT+7	)
+						(			2020-12-02	20:13:07 GMT+0	)
+						
+
+Maju 7 Jam (25200000 ms)
+
+1606965187000	(			2020-12-02	03:13:07 GMT+7	)
+						(			2020-12-02	10:13:07 GMT+0	)
+						
+						
+						
+						
+
+
+
+
+
